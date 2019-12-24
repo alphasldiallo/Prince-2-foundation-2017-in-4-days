@@ -112,3 +112,18 @@ Portfolio may comprise:
 - Other work (possibly not interdependent or directly related) but must contribute to the strategic objectives.
 
 # Starting up a project and initiating a project
+
+Initiating a project process tasks are the following:
+- Define the tailoring requirements
+- Prepare the risk management approach
+- Prepare the change control approach
+- Prepare the quality management approach
+- Prepare the communication management approach
+- Set up project controls
+- Create the project plan
+- Refine the business case
+- Assemble the PID
+
+The PID should act as a base plan for managing a project. It's the outcome of the initiating phase. 
+
+# Controlling a stage and managing product delivery
