@@ -33,7 +33,7 @@ The seven principles of Prince 2 are the following:
 - Focus on products
 - Tailored on project environment
 
-The seven Themes: 
+### The seven Themes: 
 - Business Case
 - Organisation
 - Quality
@@ -42,7 +42,22 @@ The seven Themes:
 - Change
 - Progress
 
-The seven processes:
+Business case and risk support the principle of continued business justification.
+
+The organization theme supoort the principle for roles and responsibilities to be clearly defined by establishing an organization structure.
+
+The quality theme establish common understanding of scope and quality criteria. It ensures products are fit for purpose, meet business expectations and enable benefits to be achieved
+
+The plan theme supports several principles including managing by stages, focus on products and manage by exception. It answers the questions: What's required, where and how. When and by Whom.
+
+The progress theme supports the following principles: Manage by stages, continued business justification, learn from experience and manage by exception.
+
+By managing changes to progress in a controlled ways, the change theme supports the principle manage by exception and focus on products.
+
+
+## The seven processes:
+It addresses the chronological flow of the project. Each process includes activity that drives the project forward.
+
 - Starting up the project
 - Initiating (defining the Project Initiation Document)
 - Directing the project: How the project management team oversees the project
@@ -95,3 +110,5 @@ Portfolio may comprise:
 - Projects
 - Programmes
 - Other work (possibly not interdependent or directly related) but must contribute to the strategic objectives.
+
+# Starting up a project and initiating a project
