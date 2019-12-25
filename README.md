@@ -249,6 +249,31 @@ Three categories:
 ## Quality register
 It's used to summarise all the quality management activities that are planned or have taken place and provides information for end stage reports and end project report.
 
+## Quality control - Quality Methods
+Prince2 has two types of quality methods:
+- In-process Methods (building-in quality as products are developed)
+  - Surveys and consultations
+  - Software tools and robotics
+- Appraisal methods (finished products are assessed for completeness/fitness for purpose)
+  - Testing if 'objective and quantifiable' criteria
+  - Quality inspection if 'professional judgement' required
+
+
+# Change theme
+It supports the principles of **Manage by exception** and **Focus on products**
+
+## Change authority
+- Person or group to whom Project Board delegate authority for requests for change and off-specifications
+- Established in IP during initiation (PM and Project Board)
+- Approved in DP (Project board)
+
+## Change budget
+During the IP, and approved by the project board
+
+# Progress theme
+Manage by exception, stages and continued business justification
+
+
 
 # Resources:
 - Spoce 's training guide for Prince2 foundation 2017
