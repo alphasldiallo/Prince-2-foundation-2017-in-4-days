@@ -28,9 +28,9 @@ The seven principles of Prince 2 are the following:
 - Continued Business justification
 - Learn by experience
 - Defined roles and responsibilities
-- Manage by stage
-- Manage by exception
-- Focus on products
+- Manage by stages: A Prince2 project is planned, monitored and controlled on a stage by stage basis.
+- Manage by exception: A Prince2 project has defined tolerances for each project performance target to establish limits of delegated authority.
+- Focus on products: A Prince2 project focuses on the definition and delivery of products, in particular their quality requirements.
 - Tailored on project environment
 
 ### The seven Themes: 
@@ -155,3 +155,81 @@ Used to define how and when a measurement of the achievement of the project's be
 4. Approved in DP
 5. Updated in CP (Closing a Project)
 6. Approved in DP
+
+## Tailoring business case:
+Simple project may need a simple document. Sometimes, a business case cannot be clearly defined, particularly in an evolving project.
+A feasibility study project may have multiple business cases considered. There should always be a business case to justify the starting or the continuation of a project.
+
+
+# Risk theme (Continued Business Justification)
+A risk is defined as uncertain events that would have a negative impact on objectives. The difference between a risk and an issue is that a risk is an uncertainty meanwhile an issue is a certainty, an event that has or will eventually occur.
+
+Risk must be clearly described to ensure understanding of:
+- Risk cause: describes the risk source (event/situation), the risk trigger points
+- Risk Event: Describes the area of uncertainty
+- Risk effect: Describes impact(s) on objectives
+
+  ## Risk register
+  It provides a record of identified risks relating to the project, including their status and history. It is used to capture and maintain information on all the identified threats and opportunities relating to the project. The information on any risk should be updated regularly to record any changes in status.
+  The RR is produced in IP for input to PID. The risks should be recorded in a daily log. The risks should be reviewed and approved by the project board in DP.
+
+  ## Risk management procedure technique
+  There are 5 steps in each risk management procedure:
+  - Identify (context and risks)
+  - Assess the risks that had been identified (Estimate the probability of the risk to occur)
+  - Plan: Specific responses are evaluated
+  - Implement: Ensure that the responses are actually cared out. 
+  - Communicate: Is carried out continually to keep the team informed.
+
+## Risk response types
+Identifying and evaluating the appropriate risk response to remove or reduce threats, and to maximize opportunities
+Risk response types:
+- Avoid (For threats)
+- Reduce (For threats)
+- Exploit (For opportunities)
+- Enhance (For opportunities)
+- Prepare contingent plan (Plan B)
+- Transfer the impact of the risk to a third party
+- Share
+- Accept (acknowledge that the risk exist)
+
+## Risk budget
+Sum of money as part of project's budget
+
+
+# Plan theme
+The PT supports the principles **focus on products, manage by stages, manage by exception**. 
+A plan is a document describing how, when and by whom a specific target or set of targets is to be achieved. It's the backbone of the management information system.
+
+Planning is the process of making or maintainin a plan. Prince2 requires a product-based approach to planning.
+
+## Levels of plan
+- Project plan (Created by the PM)
+- Stage plans and exception plans
+- Team plans (are optional)
+
+Plans need to be writing with a certain types of details for each phase. It needs to be prepared at the end of each stage of a project using the SB process. A project plan should cover the entire life cycle of the project.
+
+## Approach to product-based planning
+1. Designing a plan: Cared out once during the initiation stage
+2. Defining and analysing the products
+3. Identifying activities and dependencies
+4. Preparing estimates
+5. Preparing a schedule
+6. Documenting a plan
+
+Steps 2 to 6 should be repeated for project plan, stage plan and team plan (optional).
+
+## MoSCoW Prioritization Technique
+- Must have: Essential and critical to business justification
+- Should have: Important but not critical. Absence weakens business justification
+- Could have: Useful but NOT critical. Absence doesn't weaken business justification
+- Won't have: Defines what has been considered, but will NOT be delivered
+
+# Quality theme
+
+
+
+
+# Resources:
+- Spoce 's training guide for Prince2 foundation 2017
