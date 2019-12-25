@@ -94,7 +94,7 @@ One aim of Prince 2 is to make the right information available at the right time
 - Why (The business benefits of the undertaking, the major risks facing the project)
 - HOW will the work be done
 - WHO needs to be involved, to do what
-- WHEN do people need to be involved
+- WH EN do people need to be involved
 - HOW LONG will the work take
 - HOW MUCH will it cost
 - WHAT additional resources are needed, external factors impact on the work and the desired outcome(s)
@@ -127,3 +127,31 @@ Initiating a project process tasks are the following:
 The PID should act as a base plan for managing a project. It's the outcome of the initiating phase. 
 
 # Controlling a stage and managing product delivery
+
+# Business case theme (related to Continued Business Justification)
+Projects are undertaken to generate measurable business improvements (benefits), enabled by outputs and outcomes:
+- Output: Any of the project's specialist products (tangible or intangible)
+- Outcome: The result of change; affecting real-world behaviour and/or circumstances
+- Benefit: The measureable improvement resulting from an outcome
+- Dis-benefit: An outcome perceived as negative by one or more stakeholders... (An actual consequence not a risk)
+
+## Type of business cases_
+- Compulsory project. eg. change in legislation
+- Not-for-profit. eg. Social care
+- Evolving project. eg. Research and prototyping
+- Customer/supplier project ...
+
+The project board executive is responsible of preparing the business case.
+The business justification for a project should include not only the costs of developing the products produced by the project, but also for any changes to operational costs post-project. This is added to the detailed business case during initiation stage.
+
+<img src="IMG/business_case_development_path.png" alt="Business case development path and benefits management approach">
+*Business case development path and benefits management approach*
+
+## Benefit management approach
+Used to define how and when a measurement of the achievement of the project's benefits expected by the Senior User(s) can be made. It's also used during project closure to define any post-project benefit reviews that are required.
+1. Produced in IP (Initiation phase)
+2. Approved in DP (Directing a project)
+3. Updated in SB (Stage Boundary)
+4. Approved in DP
+5. Updated in CP (Closing a Project)
+6. Approved in DP
