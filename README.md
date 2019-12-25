@@ -227,8 +227,27 @@ Steps 2 to 6 should be repeated for project plan, stage plan and team plan (opti
 - Won't have: Defines what has been considered, but will NOT be delivered
 
 # Quality theme
+It supports the principle **Focus on products** by defining the quality management strategy, the project product description, the project quality criteria and the quality register.
+ ## Prince2 approach to quality
+ - Identify all the project's products (covered by quality planning)
+ - Define them in Product Descriptions (covered by quality planning)
+ - Implement and track the quality methods employed throughout the project (covered by quality planning)
 
+ Composition elements relevant to quality:
+ - Quality criteria: The required measurable quality specification of the product
+ - Quality tolerance: Details of any acceptable range in the quality criteria
+ - Quality methods: Types of quality activities to be used to check a product's quality cirteria have been met, e.g: quality review/test/inspection
+ - Quality skills: The skills required to undertake the quality method(s)
+ - Quality responsibilities: Defining the producer, reviewers and approvers
 
+## Quality reponsibilities
+Three categories:
+- Producer: the person/group who develops the product
+- Reviewer: Person/group independent of the producer - assesses the product against the product description
+- Approver: Person/group who's qualified/authorized to approve a product as being complete and fit for purpose
+
+## Quality register
+It's used to summarise all the quality management activities that are planned or have taken place and provides information for end stage reports and end project report.
 
 
 # Resources:
