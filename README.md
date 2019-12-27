@@ -42,9 +42,11 @@ The seven principles of Prince 2 are the following:
 - Change
 - Progress
 
+PP -CBORQ (Profile Picture of a C-borq) :-D
+
 Business case and risk support the principle of continued business justification.
 
-The organization theme supoort the principle for roles and responsibilities to be clearly defined by establishing an organization structure.
+The organization theme supports the principle for roles and responsibilities to be clearly defined by establishing an organization structure.
 
 The quality theme establish common understanding of scope and quality criteria. It ensures products are fit for purpose, meet business expectations and enable benefits to be achieved
 
@@ -58,8 +60,8 @@ By managing changes to progress in a controlled ways, the change theme supports 
 ## The seven processes:
 It addresses the chronological flow of the project. Each process includes activity that drives the project forward.
 
-- Starting up the project
-- Initiating (defining the Project Initiation Document)
+- Starting up the project (SU): Evaluates each idea and provides a brief report about this idea. The report produces is called a **Project brief** and should answer 4 questions: Why?(reasons), What?(project product description), How much?(Outline Business case), Who?(Project Management Team). The input of the SU process is the **project mandate** and the outputs are the **Project Brief** and the **Stage plan**
+- Initiating a project - IP (defining the Project Initiation Documentation - PID): The PID is a collection of documents which includes the Project plan, the Business case, and some other documents necessary to initiate a project
 - Directing the project: How the project management team oversees the project
 - Controlling a stage: Dictates how each individual stage should be controlled, including the way in which work packages are authorised and distributed
 - Managing Product delivery
@@ -113,6 +115,11 @@ Portfolio may comprise:
 
 # Starting up a project and initiating a project
 
+A project mandate is required before starting a project. It can be emitted by a corporate (executives), a programme or a customer (CPC). A project mandate should answer the following questions:
+- Why?: Reasons
+- What?: Scope and quality
+- How much?: Cost/benefits
+
 Initiating a project process tasks are the following:
 - Define the tailoring requirements
 - Prepare the risk management approach
@@ -127,6 +134,13 @@ Initiating a project process tasks are the following:
 The PID should act as a base plan for managing a project. It's the outcome of the initiating phase. 
 
 # Controlling a stage and managing product delivery
+
+# Organization
+The roles for each project using the Prince2 approach are the followings:
+1. Project board: They don't spend a lot of time on the project
+   - Senior User(s): Someone who has a very good understanding how the process works
+   - Senior Supplier: Wants to make sure to deliver a product that fits the customer's needs
+   - Executive
 
 # Business case theme (related to Continued Business Justification)
 Projects are undertaken to generate measurable business improvements (benefits), enabled by outputs and outcomes:
@@ -223,7 +237,7 @@ Steps 2 to 6 should be repeated for project plan, stage plan and team plan (opti
 ## MoSCoW Prioritization Technique
 - Must have: Essential and critical to business justification
 - Should have: Important but not critical. Absence weakens business justification
-- Could have: Useful but NOT critical. Absence doesn't weaken business justification
+- Could have: Useful but NOT critical. Absence doesn't weaken business justification 
 - Won't have: Defines what has been considered, but will NOT be delivered
 
 # Quality theme
@@ -260,7 +274,17 @@ Prince2 has two types of quality methods:
 
 
 # Change theme
-It supports the principles of **Manage by exception** and **Focus on products**
+It supports the principles of **Manage by exception** and **Focus on products**.
+Prince2 pdefines three types of issues:
+- Request for change:
+  - A proposal for a change to a baseline
+  - Although it is not specified in the current corporate branding standards, the corporate logo should be shown on the greeting cards being sent out to existing customers of a corporate organisation
+- Off-specification:
+  - Should be provided by the project, but currently is not (or is forecast not to be) provided
+  - This might be a missing product or a product not meeting its specification
+  - The corporate organisation had specified in the contract that all the greeting cards should be in color. However, it has been found that its supplier has printed the first 20 cards in black and white. The PM has raised this as an issue and the supplier has to reprint those 20 cards in color
+- Problem/Concern:
+  - Any other issue that the project manager needs to resolve or escalate
 
 ## Change authority
 - Person or group to whom Project Board delegate authority for requests for change and off-specifications
@@ -273,7 +297,14 @@ During the IP, and approved by the project board
 # Progress theme
 Manage by exception, stages and continued business justification
 
+## Baselines for progress control
+- Project plan
+- Stage plan
+- Exception plan
+- Work packages
+
 
 
 # Resources:
 - Spoce 's training guide for Prince2 foundation 2017
+- Simplilearn: https://www.simplilearn.com/why-project-management-is-critical-to-your-organization-article?utm_campaign=Prince2-Foundation-Certification-Training-Video-BtkR9tshtmk&utm_medium=Tutorials&utm_source=youtube
