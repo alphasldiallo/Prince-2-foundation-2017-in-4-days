@@ -312,3 +312,5 @@ Manage by exception, stages and continued business justification
 # Resources:
 - Spoce 's training guide for Prince2 foundation 2017
 - Simplilearn: https://www.simplilearn.com/why-project-management-is-critical-to-your-organization-article?utm_campaign=Prince2-Foundation-Certification-Training-Video-BtkR9tshtmk&utm_medium=Tutorials&utm_source=youtube
+- Managing Successful Projects With PRINCE2. London (London): TSO; 2017.
+- Videos: https://drive.google.com/drive/folders/1BAUjpe0dqiyGGQsvqCKRPMFZaRI3PbWi?usp=sharing
