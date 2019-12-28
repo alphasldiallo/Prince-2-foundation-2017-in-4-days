@@ -112,6 +112,8 @@ Portfolio may comprise:
 - Programmes
 - Other work (possibly not interdependent or directly related) but must contribute to the strategic objectives.
 
+# Day 2: Prince2 processes
+
 # Starting up a project and initiating a project
 
 A project mandate is required before starting a project. It can be emitted by a corporate (executives), a programme or a customer (CPC). A project mandate should answer the following questions:
@@ -173,6 +175,7 @@ Used to define how and when a measurement of the achievement of the project's be
 Simple project may need a simple document. Sometimes, a business case cannot be clearly defined, particularly in an evolving project.
 A feasibility study project may have multiple business cases considered. There should always be a business case to justify the starting or the continuation of a project.
 
+# Day 3: Themes
 
 # Risk theme (Continued Business Justification)
 A risk is defined as uncertain events that would have a negative impact on objectives. The difference between a risk and an issue is that a risk is an uncertainty meanwhile an issue is a certainty, an event that has or will eventually occur.
@@ -301,6 +304,8 @@ Manage by exception, stages and continued business justification
 - Stage plan
 - Exception plan
 - Work packages
+
+# Day 4: Reviewing the principles, themes, processes and praying hard!
 
 
 
