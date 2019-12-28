@@ -16,15 +16,15 @@ The six aspects of Prince 2 are the following:
 - Quality
 - Benefits
 
-Te four integrated elements of the Prince 2 structure are:
+The four integrated elements of the Prince 2 structure are:
 - The principles
 - The Themes
 - The processes
 - And the project environment.
 
 ### The seven principles:
-These principles needs to be used in all Prince 2 projects, these are the pillar of each Prince 2 project. There are Universal, Self-validating and Empowering.
-The seven principles of Prince 2 are the following:
+These principles needs to be used in all Prince2 projects, these are the pillar of each Prince2 project. There are Universal, Self-validating and Empowering.
+The seven principles of Prince2 are the following:
 - Continued Business justification
 - Learn by experience
 - Defined roles and responsibilities
@@ -48,33 +48,33 @@ Business case and risk support the principle of continued business justification
 
 The organization theme supports the principle for roles and responsibilities to be clearly defined by establishing an organization structure.
 
-The quality theme establish common understanding of scope and quality criteria. It ensures products are fit for purpose, meet business expectations and enable benefits to be achieved
+The quality theme establish common understanding of scope and quality criteria. It ensures products are fit for purpose, meet business expectations and enable benefits to be achieved.
 
 The plan theme supports several principles including managing by stages, focus on products and manage by exception. It answers the questions: What's required, where and how. When and by Whom.
 
 The progress theme supports the following principles: Manage by stages, continued business justification, learn from experience and manage by exception.
 
-By managing changes to progress in a controlled ways, the change theme supports the principle manage by exception and focus on products.
+By managing changes to progress in a controlled ways, the **change theme** supports the principle **manage by exception** and **focus on products**.
 
 
 ## The seven processes:
-It addresses the chronological flow of the project. Each process includes activity that drives the project forward.
+It addresses the chronological flow of the project. Each process includes activities that drives the project forward.
 
 - Starting up the project (SU): Evaluates each idea and provides a brief report about this idea. The report produces is called a **Project brief** and should answer 4 questions: Why?(reasons), What?(project product description), How much?(Outline Business case), Who?(Project Management Team). The input of the SU process is the **project mandate** and the outputs are the **Project Brief** and the **Stage plan**
-- Initiating a project - IP (defining the Project Initiation Documentation - PID): The PID is a collection of documents which includes the Project plan, the Business case, and some other documents necessary to initiate a project
-- Directing the project: How the project management team oversees the project
+- Initiating a project - IP (defining the Project Initiation Documentation - PID): The PID is a collection of documents which includes the Project plan, the Business case, and some other documents necessary to initiate a project.
+- Directing the project: How the project management team oversees the project?
 - Controlling a stage: Dictates how each individual stage should be controlled, including the way in which work packages are authorised and distributed
 - Managing Product delivery
 - Managing Stage boundaries: How to transition from one stage to another
 - Closing up the project
 
-One aim of Prince 2 is to make the right information available at the right time for the right people to make the right decisions about the project. Those decisions include whether to take corrective action or iplement measures to improve performance.
+One aim of Prince2 is to make the right information available at the right time for the right people to make the right decisions about the project. Those decisions include whether to take corrective action or implement measures to improve performance.
 
-## Why Prince 2?
+## Why Prince2?
 - Proven best practice and governance
 - Project viability/business case focus
 - Can be applied to any type of project
-- Provides a common language for participans
+- Provides a common language for participants
 - Product focus and their quality requirements
 - Explicit recognition of project responsibilities
 - Improved communication and control through plan levels
@@ -84,7 +84,6 @@ One aim of Prince 2 is to make the right information available at the right time
 - Lack of good business reasons for undertaking the work
 - Repeated mistakes
 - Failure to involve the customers throughout the project
-- Lack of good business reasons for undertaking the work
 - Lack of quality requirements and measurable acceptance criteria
 - Poorly specified & understood project objectives
 - Products not defined in sufficient detail before starting work
@@ -96,14 +95,14 @@ One aim of Prince 2 is to make the right information available at the right time
 - Why (The business benefits of the undertaking, the major risks facing the project)
 - HOW will the work be done
 - WHO needs to be involved, to do what
-- WH EN do people need to be involved
+- WHEN do people need to be involved
 - HOW LONG will the work take
 - HOW MUCH will it cost
 - WHAT additional resources are needed, external factors impact on the work and the desired outcome(s)
 
 ## What is a programme?
 Project focus on product or output or delivery capabilities for achieving benefits. Program management is focused on managing those benefits to ensure maximum gains is achieved for the organization. 
-Program management provides a framework to co-ordinate, direct and oversee the implementation of a set of related projects and activities in order to deliver outcomes and benefits related to the organization0s strategic objectives.
+Program management provides a framework to co-ordinate, direct and oversee the implementation of a set of related projects and activities in order to deliver outcomes and benefits related to the organization's strategic objectives.
 A programme is likely to have a life that spans several years.
 
 ## What is a portfolio?
@@ -149,7 +148,7 @@ Projects are undertaken to generate measurable business improvements (benefits),
 - Benefit: The measureable improvement resulting from an outcome
 - Dis-benefit: An outcome perceived as negative by one or more stakeholders... (An actual consequence not a risk)
 
-## Type of business cases_
+## Type of business cases
 - Compulsory project. eg. change in legislation
 - Not-for-profit. eg. Social care
 - Evolving project. eg. Research and prototyping
