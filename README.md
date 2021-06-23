@@ -8,7 +8,7 @@ I have 4 days to prepare the exam of Prince 2 foundation. Starting from scratch,
 
 PRINCE2 (PRojects IN Controlled Environments) is a structured project management method and practitioner certification programme. PRINCE2 emphasises dividing projects into manageable and controllable stages. (https://en.wikipedia.org/wiki/PRINCE2). Industry standard method for managing projects, updated in 2002, 2005, 2009, 2017.
 
-The six aspects of Prince 2 are the following:
+The six aspects of Prince 2 are as follow:
 - Scope
 - Time scale
 - Risk
@@ -121,7 +121,7 @@ A project mandate is required before starting a project. It can be emitted by a 
 - What?: Scope and quality
 - How much?: Cost/benefits
 
-Initiating a project process tasks are the following:
+Initiating a project process tasks are as follow:
 - Define the tailoring requirements
 - Prepare the risk management approach
 - Prepare the change control approach
@@ -137,7 +137,7 @@ The PID should act as a base plan for managing a project. It's the outcome of th
 # Controlling a stage and managing product delivery
 
 # Organization
-The roles for each project using the Prince2 approach are the followings:
+The roles for each project using the Prince2 approach are as follow:
 1. Project board: They don't spend a lot of time on the project
    - Senior User(s): Someone who has a very good understanding how the process works
    - Senior Supplier: Wants to make sure to deliver a product that fits the customer's needs
