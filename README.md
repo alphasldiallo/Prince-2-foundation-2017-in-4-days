@@ -288,7 +288,7 @@ Prince2 pdefines three types of issues:
 - Problem/Concern:
   - Any other issue that the project manager needs to resolve or escalate
 
-## Change authority
+## Change authority
 - Person or group to whom Project Board delegate authority for requests for change and off-specifications
 - Established in IP during initiation (PM and Project Board)
 - Approved in DP (Project board)
@@ -314,6 +314,7 @@ Manage by exception, stages and continued business justification
 - Simplilearn: https://www.simplilearn.com/why-project-management-is-critical-to-your-organization-article?utm_campaign=Prince2-Foundation-Certification-Training-Video-BtkR9tshtmk&utm_medium=Tutorials&utm_source=youtube
 - Managing Successful Projects With PRINCE2. London (London): TSO; 2017.
 - Videos: https://drive.google.com/drive/folders/1BAUjpe0dqiyGGQsvqCKRPMFZaRI3PbWi?usp=sharing
+- Do not forget to add a star 🌟 on the repo before making a request.
 
 
 #### Update: I passed the test! 🥳🥳
